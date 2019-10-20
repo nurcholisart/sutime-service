@@ -1,7 +1,6 @@
 appdirs==1.4.3
 attrs==19.3.0
 backcall==0.1.0
-black==19.3b0
 Click==7.0
 decorator==4.4.0
 Flask==1.1.1
